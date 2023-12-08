@@ -1,3 +1,4 @@
+package it.prova;
 
 public class Avvio {
 
